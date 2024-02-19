@@ -1,10 +1,3 @@
-"# Weather-App" 
-"# Weather-App" 
-Technology used--
-HMTL5 
-CSS {Cascading Style Sheet}
-Javascript
-
 --Description--
 The Weather App is a simple web application that provides real-time weather information for a specified city. It includes the current temperature, a description of the weather, and an icon representing the weather condition.
 
